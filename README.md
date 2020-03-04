@@ -2,11 +2,11 @@
 
 ## Start
 
-Install the dependencies and start the api
+Installer les dépendances et faire démmarrer l'api 
 
 ```javascript
 yarn
-yarn start
+yarn start ou npm start 
 ```
 
 ## Usage
