@@ -11,7 +11,7 @@ yarn start ou npm start
 
 ## Usage
 
-Viister [http://localhost:3000](http://localhost:3000) pour découvrir les routes
+Vister [http://localhost:3000](http://localhost:3000) pour découvrir les routes
 
 ### Dependencies
 
