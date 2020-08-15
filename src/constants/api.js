@@ -1,4 +1,4 @@
 module.exports = {
-    baseURL: 'ec2-15-237-25-173.eu-west-3.compute.amazonaws.com',
+    baseURL: 'http://localhost:3000/',
     port: 3000
 };
