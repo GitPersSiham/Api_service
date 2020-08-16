@@ -2,7 +2,7 @@ const axios = require('axios');
 const faker = require('faker');
 
 
-const apiURL = require('../constants/api').baseURL;
+const apiURL = require('../constants/api').process.env.baseURL;
 const generateProduct = (i) => {
 
     faker.seed(i);

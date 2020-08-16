@@ -15,9 +15,10 @@ server.use(middlewares);
 server.use(router);
 
 // Retrieve port
-const port = require('./src/constants/api').port;
+/*const port = require('./src/constants/api').port;*/
+const PORT = parseInt(process.env.PORT) || 3000;
 
 // Listen to port
-server.listen(port, () => {
+server.listen(PORT, () => {
   console.log('JSON Server is running')
 })
