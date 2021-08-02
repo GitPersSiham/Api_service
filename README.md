@@ -22,5 +22,3 @@ and **faker**
 
 * https://github.com/Marak/faker.
 
-
-https://app-service-28.herokuapp.com/
